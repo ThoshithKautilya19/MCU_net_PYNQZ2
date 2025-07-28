@@ -1,6 +1,9 @@
 # MCU_net_PYNQZ2
 Trying out efficient NN models, based on tflite framework on resource constrained devices like the PYNQ Z2.
 
+Part of my Summer project course, extending Gaurav Shah and team's project.
+https://github.com/Gaurav-Shah05/FPGA-OwlsEye
+
 
 RESULTS:
 (Should have documented the results in a better way)
